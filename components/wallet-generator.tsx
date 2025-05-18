@@ -147,7 +147,7 @@ export default function WalletGenerator({ onWalletCreated }: WalletGeneratorProp
                 <div className="p-2 bg-white rounded-md break-all border border-blue-200">
                   {showPrivateKey
                     ? generatedWallet.privateKey
-                    : "••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••"}
+                    : "••••••••••••••••••••••••••••"}
                 </div>
               </div>
 
