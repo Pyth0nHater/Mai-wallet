@@ -3,8 +3,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'MAI Wallet',
-  description: 'Pyt0nHater',
-  generator: 'Pyt0nHater',
+  description: 'MAI Wallet',
+  generator: 'MAI Wallet',
 }
 
 export default function RootLayout({
