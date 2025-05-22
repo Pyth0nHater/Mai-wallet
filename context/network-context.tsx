@@ -14,8 +14,8 @@ export type Network = {
 }
 
 // Add the API keys
-const ETHERSCAN_API_KEY = "*********************************"
-const ARBISCAN_API_KEY = "**********************************"
+const ETHERSCAN_API_KEY = "N8J2MSW3DU1MXX3YBFI8X6ZATG619ZVTXF"
+const ARBISCAN_API_KEY = "YE6VIDGJPQW2CBMTGENF9WSW2F26B3F58R"
 
 export const ETH_NETWORKS: Record<string, Network> = {
   MAINNET: {
